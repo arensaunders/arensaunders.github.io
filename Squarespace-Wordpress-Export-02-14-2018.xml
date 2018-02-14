@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>AHSG</title>
+    <link>https://aren-saundersgonzalez-ge5e.squarespace.com</link>
+    <pubDate>Thu, 04 Jan 2018 01:32:29 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>668512165</wp:author_id>
+      <wp:author_login>aren.hsg@gmail.com</wp:author_login>
+      <wp:author_email>aren.hsg@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Aren Saunders-Gonzalez]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Aren]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Saunders-Gonzalez]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Personal - null]]></wp:cat_name>
+      <wp:category_nicename>Personal-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/contact/</link>
+      <title>Contact</title>
+      <pubDate>Thu, 04 Jan 2018 10:54:04 +0000</pubDate>
+      <content:encoded><![CDATA[<div class="form-wrapper" >
+
+  
+
+  <div class="form-inner-wrapper">
+
+    <form autocomplete="on" action="https://aren-saundersgonzalez-ge5e.squarespace.com" method="POST" onsubmit="
+      return (function(form) {
+        Y.use('squarespace-form-submit', 'node', function(Y){
+          (new Y.Squarespace.FormSubmit({
+            formNode: Y.Node(form)
+          })).submit('5a4d897d71c10b1be8751281', '', 'page-5a4d897d71c10b1be8751280');
+        });
+        return false;
+      })(this)" data-form-id="5a4d897d71c10b1be8751281">
+
+      
+
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name1" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email2" class="form-item field email required">
+                <label class="title" for="email2-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email2-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+              <div id="text3" class="form-item field text required">
+                <label class="title" for="text3-field">Subject <span class="required">*</span></label>
+                
+                <input class="field-element text" type="text" id="text3-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea4" class="form-item field textarea required">
+                <label class="title" for="textarea4-field">Message <span class="required">*</span></label>
+                
+                <textarea class="field-element " id="textarea4-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      <div class="hidden form-submission-text">Thank you!</div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>
+&nbsp;<h3>Business Inquiries</h3><p><strong>Aren H. Saunders-G.</strong><br />aren.hsg@gmail.com<br /> </p>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about/</link>
+      <title>About</title>
+      <pubDate>Thu, 04 Jan 2018 10:49:43 +0000</pubDate>
+      <content:encoded><![CDATA[<a href="http://instagram.com/howardtravs"  target="_blank" ><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/t/5a4d8b038165f5a45d8591d5/1515031428131/?format=original" alt=""/></a>
+  
+
+<h1>Aren H. Saunders-Gonzalez</h1><p>I am an outdoor lifestyle and portraiture photographer based in Norther California.</p><p>I was born and raised in Sacramento, but I currently reside in Berkeley while I attend UC Berkeley for a degree in Economics.</p><p>My goal is to craft images tailored to your needs through my creative style and hardworking ethics.</p><p>Some of my services: Prints, Brand/Business Projects, Portraits, Weddings, Events, and more!</p><ul dir="ltr"><li><span style="display:none">&nbsp;</span><a target="_blank" href="http://hikeandshoot.us">I help host photography workshops and hiking adventures with Hike &amp; Shoot.</a></li><li><a target="_blank" href="http://www.dailycal.org">Photo-staff for The Daily Californian</a>.</li><li><a target="_blank" href="http://www.berkeleyphotocenter.com">I intern for the Berkeley Photo Center under Orin Rutchick, a former editorial photographer/art and creative director/entrepreneur.</a></li><li><a target="_blank" href="http://mbsy.co/jHTHc">Ambassador for Moment, a mobile photography company.</a></li><li><a target="_blank" href="http://blueclothing.co">Product/Model shoots for "blue.", a clothing company founded to help improve wildlife conservation efforts.</a><span style="display:none">&nbsp;</span></li></ul>
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-grid
+  sqs-gallery-aspect-ratio-square
+  sqs-gallery-thumbnails-per-row-4
+  
+  
+
+  
+    
+    
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BeE9nlCl07z/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a605ec2cd84a5fdd611f531/1516265166400/"  alt="Love these views, every time I drive threw scenery like this, I can’t help but feel calm."  /></noscript><img class="thumb-image" alt="Love these views, every time I drive threw scenery like this, I can’t help but feel calm." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a605ec2cd84a5fdd611f531/1516265166400/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a605ec2cd84a5fdd611f531/1516265166400/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a605ec2cd84a5fdd611f531" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/Bd9PWzxlW_r/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5c4f0924012cdc337bda4d/1515999003229/"  alt="The Lost Coast is absolutely beautiful. Anyone reading this hike it / been along it before? 
+I took this shot while we were resting at a beach and one of the people in my crew hiked up one of the hills to checkout the coastal view."  /></noscript><img class="thumb-image" alt="The Lost Coast is absolutely beautiful. Anyone reading this hike it / been along it before? 
+I took this shot while we were resting at a beach and one of the people in my crew hiked up one of the hills to checkout the coastal view." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5c4f0924012cdc337bda4d/1515999003229/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5c4f0924012cdc337bda4d/1515999003229/" data-image-dimensions="640x426" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a5c4f0924012cdc337bda4d" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/Bd6rzmQli8h/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5ae835386f5729491a5d9d/1515907145137/"  alt="Took this shot during the blue hour transition to night a while back. I start school again this Tuesday, but I’d rather be out on an adventure. 🙂🙂"  /></noscript><img class="thumb-image" alt="Took this shot during the blue hour transition to night a while back. I start school again this Tuesday, but I’d rather be out on an adventure. 🙂🙂" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5ae835386f5729491a5d9d/1515907145137/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5ae835386f5729491a5d9d/1515907145137/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a5ae835386f5729491a5d9d" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/Bd4H2FeF9AF/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a59bf34448c8a7696a09649/1515831113138/"  alt="This photo is not only from my first time shooting the Milky Way, but one of the first shots i took of it. It’s extremely noisy but when you first get something like this on your camera you really are astonished, which is why this photo means a lot to me. Anyone else have any first time shots they wanna share? Shoot me a DM of it, I’d love to see."  /></noscript><img class="thumb-image" alt="This photo is not only from my first time shooting the Milky Way, but one of the first shots i took of it. It’s extremely noisy but when you first get something like this on your camera you really are astonished, which is why this photo means a lot to me. Anyone else have any first time shots they wanna share? Shoot me a DM of it, I’d love to see." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a59bf34448c8a7696a09649/1515831113138/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a59bf34448c8a7696a09649/1515831113138/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a59bf34448c8a7696a09649" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/Bd1jlKoFVSV/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a587d66d6335268d6f567b4/1515748725984/"  alt="What grinds your gears? Lmk in the comments 😉. Shot this at #treasureisland a few months back, ended up losing my keys too which cost almost $100 to replace. 🙂"  /></noscript><img class="thumb-image" alt="What grinds your gears? Lmk in the comments 😉. Shot this at #treasureisland a few months back, ended up losing my keys too which cost almost $100 to replace. 🙂" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a587d66d6335268d6f567b4/1515748725984/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a587d66d6335268d6f567b4/1515748725984/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a587d66d6335268d6f567b4" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdtxUZUFjus/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a545976dbe3974252722ebe/1515477825738/"  alt="Focus, the tree that stood out. This shot reminds me to continue to find ways to differentiate myself from other photographers, but to pick and choose minor things I like from those that I admire. 👀🌲
+—Inspired by @alexstrohl, thanks for the awesome workshop.🤟🏼"  /></noscript><img class="thumb-image" alt="Focus, the tree that stood out. This shot reminds me to continue to find ways to differentiate myself from other photographers, but to pick and choose minor things I like from those that I admire. 👀🌲
+—Inspired by @alexstrohl, thanks for the awesome workshop.🤟🏼" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a545976dbe3974252722ebe/1515477825738/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a545976dbe3974252722ebe/1515477825738/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a545976dbe3974252722ebe" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdrOfRJF775/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5323b4e22c882424edd4d5/1515398092613/"  alt="A week from tomorrow, I start school again. I haven’t been able to go on adventure in the great outdoors like I hoped, but I did get to work on my portraiture at least. Currently am planning out my new website, I hope y’all like it when it’s finished!"  /></noscript><img class="thumb-image" alt="A week from tomorrow, I start school again. I haven’t been able to go on adventure in the great outdoors like I hoped, but I did get to work on my portraiture at least. Currently am planning out my new website, I hope y’all like it when it’s finished!" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5323b4e22c882424edd4d5/1515398092613/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a5323b4e22c882424edd4d5/1515398092613/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a5323b4e22c882424edd4d5" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdoqHR3lgXT/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a51d251b30b6816eb4c3473/1515311717379/"  alt="Last time I was in this part of Fair Oaks, some friends jumped off the Fair Oaks bridge but I was too scared to 💀😂."  /></noscript><img class="thumb-image" alt="Last time I was in this part of Fair Oaks, some friends jumped off the Fair Oaks bridge but I was too scared to 💀😂." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a51d251b30b6816eb4c3473/1515311717379/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a51d251b30b6816eb4c3473/1515311717379/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a51d251b30b6816eb4c3473" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdjjR6klafT/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4f1ff3bc3379813540755c/1515134971710/"  alt="Iceyyy."  /></noscript><img class="thumb-image" alt="Iceyyy." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4f1ff3bc3379813540755c/1515134971710/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4f1ff3bc3379813540755c/1515134971710/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4f1ff3bc3379813540755c" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/Bdg8ImfF8an/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e6/1515062771916/"  alt="I actually really enjoy the aesthetics of some truck stops. Shot this at truck stop my family took a break at along the way to Washington. Longing for another road trip, what about you?"  /></noscript><img class="thumb-image" alt="I actually really enjoy the aesthetics of some truck stops. Shot this at truck stop my family took a break at along the way to Washington. Longing for another road trip, what about you?" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e6/1515062771916/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e6/1515062771916/" data-image-dimensions="640x799" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08e6" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdedgYNF_pa/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e7/1515062772231/"  alt="Stay gold pony boy. 🤙🏼"  /></noscript><img class="thumb-image" alt="Stay gold pony boy. 🤙🏼" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e7/1515062772231/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e7/1515062772231/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08e7" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdbyueTlo5L/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e8/1515062771874/"  alt="Every year, just like most of you, I set unrealistic New Year resolutions that I never completely follow through with. My resolution for this New Year, is to just be a better person. It’s simple and easier to follow through with as it could be done in a variety of ways every day. Cheers to another year. 🤙🏼2️⃣0️⃣1️⃣8️⃣"  /></noscript><img class="thumb-image" alt="Every year, just like most of you, I set unrealistic New Year resolutions that I never completely follow through with. My resolution for this New Year, is to just be a better person. It’s simple and easier to follow through with as it could be done in a variety of ways every day. Cheers to another year. 🤙🏼2️⃣0️⃣1️⃣8️⃣" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e8/1515062771874/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e8/1515062771874/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08e8" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdWn9KnFeZF/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e9/1515062772079/"  alt="I’ve been getting more into portraiture since I’m unable to get out and adventure as much as I’d like. Had a great time shooting with @alexandria_romanov a few days ago. 😁"  /></noscript><img class="thumb-image" alt="I’ve been getting more into portraiture since I’m unable to get out and adventure as much as I’d like. Had a great time shooting with @alexandria_romanov a few days ago. 😁" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e9/1515062772079/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08e9/1515062772079/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08e9" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdUGeHqlM0T/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ea/1515062771918/"  alt="Mood: Travel to a destination, unknown."  /></noscript><img class="thumb-image" alt="Mood: Travel to a destination, unknown." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ea/1515062771918/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ea/1515062771918/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08ea" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdI3pXdF9_p/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08eb/1515062771840/"  alt="Merry Christmas // Happy Holidays 🙏🏼 with a moody image of the capital."  /></noscript><img class="thumb-image" alt="Merry Christmas // Happy Holidays 🙏🏼 with a moody image of the capital." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08eb/1515062771840/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08eb/1515062771840/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08eb" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BdEaCYvl1XZ/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ec/1515062772214/"  alt="I shot this in the back of the truck on my way to Washington to see family for Thanksgiving. I wish I had more time to stop and explore the area for photo opportunities."  /></noscript><img class="thumb-image" alt="I shot this in the back of the truck on my way to Washington to see family for Thanksgiving. I wish I had more time to stop and explore the area for photo opportunities." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ec/1515062772214/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ec/1515062772214/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08ec" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BcyXomeFcLy/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ed/1515062771847/"  alt="After backpacking about 10 miles up and down some steep inclines through the Lost Coast Trail we came across this amazing beach and decided to have lunch here. It was really nice and peaceful listening to the waves while taking a break and eating."  /></noscript><img class="thumb-image" alt="After backpacking about 10 miles up and down some steep inclines through the Lost Coast Trail we came across this amazing beach and decided to have lunch here. It was really nice and peaceful listening to the waves while taking a break and eating." data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ed/1515062771847/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ed/1515062771847/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08ed" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/Bcqo08elsbe/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ee/1515062772028/"  alt="Take me to the seaside 🌊
+What’s the last beach you’ve visited?"  /></noscript><img class="thumb-image" alt="Take me to the seaside 🌊
+What’s the last beach you’ve visited?" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ee/1515062772028/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ee/1515062772028/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08ee" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BcoFcscFJUs/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ef/1515062773499/"  alt="What’s your favorite beach?🗺
+Mine has been Pismo beach since I was in 4th grade, but the beaches on the Lost Coast are making me reconsider🙃❤️"  /></noscript><img class="thumb-image" alt="What’s your favorite beach?🗺
+Mine has been Pismo beach since I was in 4th grade, but the beaches on the Lost Coast are making me reconsider🙃❤️" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ef/1515062773499/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08ef/1515062773499/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08ef" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image">
+              <div class="margin-wrapper">
+                <a
+                  
+                      
+                        href="https://www.instagram.com/p/BcOWQGalZ5Q/" 
+                      
+                  
+
+                  class="image-slide-anchor content-fill"
+                >
+                  <noscript><img src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08f0/1515062771747/"  alt="I love the outdoors but seeing Seattle from such a high perspective definitely made me want to get out and do some more urban photography. 🙏🏼✔️ @visitseattle"  /></noscript><img class="thumb-image" alt="I love the outdoors but seeing Seattle from such a high perspective definitely made me want to get out and do some more urban photography. 🙏🏼✔️ @visitseattle" data-src="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08f0/1515062771747/" data-image="https://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4e05f180bd5e6b098d37d3/5a4e05f27e2a5f1433ec08f0/1515062771747/" data-image-dimensions="640x800" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5a4e05f27e2a5f1433ec08f0" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+<style type="text/css" id="design-grid-css">
+#block-yui_3_17_2_12_1515062558266_4910 .sqs-gallery-block-grid .sqs-gallery-design-grid { margin-right: -20px; }
+#block-yui_3_17_2_12_1515062558266_4910 .sqs-gallery-block-grid .sqs-gallery-design-grid-slide .margin-wrapper { margin-right: 20px; margin-bottom: 20px; }
+</style>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Adventure</title>
+      <link>/adventure/</link>
+      <pubDate>Sat, 13 Jan 2018 02:44:03 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4d91f70852294d69e23c7c/1515810470767/ASG_3991.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4dd2f4419202af08219a46/1515049758136/a.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4e914c71c10b1be89a52a5/1515571039586/ASG_9541.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4bd0d9297e2e4fa5143/1515810470665/ASG_3030.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4bd0852297684dc7ec8/1515810470665/ASG_3100.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4e60d9297e2e4fa597c/1515810470667/ASG_3119.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4ebf9619a6ffcb4329e/1515810470860/ASG_3170.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f440e2c483b7c9987bd6/1515571039763/ASG_5547.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f45b08522923aca7f3db/1515571039775/ASG_3820.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f479652dea21bb2aa27b/1515810470770/ASG_3887.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f48d53450acae56204fc/1515571218404/ASG_3948.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f4aaec212d2daa173b72/1515571039833/ASG_3871-2.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f7dbec212d2daa17f96d/1515810470778/ASG_4058.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f7db71c10b60575f240c/1515571039689/ASG_4050.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f81953450acae562d9b6/1515810470860/ASG_4079.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c550f9619ace89bec027/1515810470799/ASG_5460.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5518165f51d86004d34/1515810470665/ASG_5542.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5758165f51d86004f9e/1515571254248/ASG_4155.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c58924a6942696317168/1515810470910/ASG_4122.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5aff9619ace89bec746/1515810470773/ASG_5422.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5b6ec212d5f4a922d73/1515810470859/ASG_5311.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5d9e2c483133c5b6211/1515571039950/ASG_5361.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c7aae4966b9db4769bb5/1515571119290/unnamed.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59710b53450a8d5a9c4e43/1515811170814/ASG_6281.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59715408522942afe9950c/1515811172762/ASG_6233.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59715f8165f5b7c1afad0f/1515811442797/ASG_6243.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59717af9619a67359f5027/1515811442852/ASG_6241.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59718e9140b7e31a649490/1515811442895/ASG_6261.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971a708522942afe99f12/1515811442905/ASG_6241.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971bf71c10b9c8c135606/1515811442903/ASG_5855.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971ccf9619a67359f59ad/1515811442953/ASG_5875.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971df24a6949edb72dbaa/1515811442961/ASG_5882.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a597202e2c4839a6b11ae28/1515811442960/ASG_6031.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5972148165f5b7c1afc4b4/1515811443021/ASG_6073.jpg" /></div>]]></content:encoded>
+      <wp:post_name>adventure</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4d91f70852294d69e23c7c/1515810470767/ASG_3991.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4d91f70852294d69e23c7c/1515810470767/ASG_3991.jpg</link>
+      <title>attachment-5a4d91f70852294d69e23c7c</title>
+      <wp:post_name>ASG-3991-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a4d91f70852294d69e23c7c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a4d91f70852294d69e23c7c]]></excerpt:encoded>
+      <pubDate>Thu, 04 Jan 2018 02:31:19 +0000</pubDate>
+      <wp:post_date>2018-01-04 02:31:19</wp:post_date>
+      <wp:post_date_gmt>2018-01-04 02:31:19</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4dd2f4419202af08219a46/1515049758136/a.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4dd2f4419202af08219a46/1515049758136/a.jpg</link>
+      <title>attachment-5a4dd2f4419202af08219a46</title>
+      <wp:post_name>a-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a4dd2f4419202af08219a46]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a4dd2f4419202af08219a46]]></excerpt:encoded>
+      <pubDate>Thu, 04 Jan 2018 07:08:36 +0000</pubDate>
+      <wp:post_date>2018-01-04 07:08:36</wp:post_date>
+      <wp:post_date_gmt>2018-01-04 07:08:36</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4e914c71c10b1be89a52a5/1515571039586/ASG_9541.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a4e914c71c10b1be89a52a5/1515571039586/ASG_9541.jpg</link>
+      <title>attachment-5a4e914c71c10b1be89a52a5</title>
+      <wp:post_name>ASG-9541-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a4e914c71c10b1be89a52a5]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a4e914c71c10b1be89a52a5]]></excerpt:encoded>
+      <pubDate>Thu, 04 Jan 2018 20:40:44 +0000</pubDate>
+      <wp:post_date>2018-01-04 20:40:44</wp:post_date>
+      <wp:post_date_gmt>2018-01-04 20:40:44</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4bd0d9297e2e4fa5143/1515810470665/ASG_3030.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4bd0d9297e2e4fa5143/1515810470665/ASG_3030.jpg</link>
+      <title>attachment-5a53a4bd0d9297e2e4fa5143</title>
+      <wp:post_name>ASG-3030-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53a4bd0d9297e2e4fa5143]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53a4bd0d9297e2e4fa5143]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 17:05:01 +0000</pubDate>
+      <wp:post_date>2018-01-08 17:05:01</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 17:05:01</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4bd0852297684dc7ec8/1515810470665/ASG_3100.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4bd0852297684dc7ec8/1515810470665/ASG_3100.jpg</link>
+      <title>attachment-5a53a4bd0852297684dc7ec8</title>
+      <wp:post_name>ASG-3100-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53a4bd0852297684dc7ec8]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53a4bd0852297684dc7ec8]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 17:05:01 +0000</pubDate>
+      <wp:post_date>2018-01-08 17:05:01</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 17:05:01</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4e60d9297e2e4fa597c/1515810470667/ASG_3119.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4e60d9297e2e4fa597c/1515810470667/ASG_3119.jpg</link>
+      <title>attachment-5a53a4e60d9297e2e4fa597c</title>
+      <wp:post_name>ASG-3119-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53a4e60d9297e2e4fa597c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53a4e60d9297e2e4fa597c]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 17:05:42 +0000</pubDate>
+      <wp:post_date>2018-01-08 17:05:42</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 17:05:42</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4ebf9619a6ffcb4329e/1515810470860/ASG_3170.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53a4ebf9619a6ffcb4329e/1515810470860/ASG_3170.jpg</link>
+      <title>attachment-5a53a4ebf9619a6ffcb4329e</title>
+      <wp:post_name>ASG-3170-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53a4ebf9619a6ffcb4329e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53a4ebf9619a6ffcb4329e]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 17:05:47 +0000</pubDate>
+      <wp:post_date>2018-01-08 17:05:47</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 17:05:47</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f440e2c483b7c9987bd6/1515571039763/ASG_5547.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f440e2c483b7c9987bd6/1515571039763/ASG_5547.jpg</link>
+      <title>attachment-5a53f440e2c483b7c9987bd6</title>
+      <wp:post_name>ASG-5547-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53f440e2c483b7c9987bd6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53f440e2c483b7c9987bd6]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 22:44:16 +0000</pubDate>
+      <wp:post_date>2018-01-08 22:44:16</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 22:44:16</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f45b08522923aca7f3db/1515571039775/ASG_3820.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f45b08522923aca7f3db/1515571039775/ASG_3820.jpg</link>
+      <title>attachment-5a53f45b08522923aca7f3db</title>
+      <wp:post_name>ASG-3820-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53f45b08522923aca7f3db]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53f45b08522923aca7f3db]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 22:44:43 +0000</pubDate>
+      <wp:post_date>2018-01-08 22:44:43</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 22:44:43</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f479652dea21bb2aa27b/1515810470770/ASG_3887.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f479652dea21bb2aa27b/1515810470770/ASG_3887.jpg</link>
+      <title>attachment-5a53f479652dea21bb2aa27b</title>
+      <wp:post_name>ASG-3887-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53f479652dea21bb2aa27b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53f479652dea21bb2aa27b]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 22:45:13 +0000</pubDate>
+      <wp:post_date>2018-01-08 22:45:13</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 22:45:13</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f48d53450acae56204fc/1515571218404/ASG_3948.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f48d53450acae56204fc/1515571218404/ASG_3948.jpg</link>
+      <title>attachment-5a53f48d53450acae56204fc</title>
+      <wp:post_name>ASG-3948-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53f48d53450acae56204fc]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53f48d53450acae56204fc]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 22:45:33 +0000</pubDate>
+      <wp:post_date>2018-01-08 22:45:33</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 22:45:33</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f4aaec212d2daa173b72/1515571039833/ASG_3871-2.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f4aaec212d2daa173b72/1515571039833/ASG_3871-2.jpg</link>
+      <title>attachment-5a53f4aaec212d2daa173b72</title>
+      <wp:post_name>ASG-3871-2-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53f4aaec212d2daa173b72]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53f4aaec212d2daa173b72]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 22:46:02 +0000</pubDate>
+      <wp:post_date>2018-01-08 22:46:02</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 22:46:02</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f7dbec212d2daa17f96d/1515810470778/ASG_4058.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f7dbec212d2daa17f96d/1515810470778/ASG_4058.jpg</link>
+      <title>attachment-5a53f7dbec212d2daa17f96d</title>
+      <wp:post_name>ASG-4058-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53f7dbec212d2daa17f96d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53f7dbec212d2daa17f96d]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 22:59:39 +0000</pubDate>
+      <wp:post_date>2018-01-08 22:59:39</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 22:59:39</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f7db71c10b60575f240c/1515571039689/ASG_4050.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f7db71c10b60575f240c/1515571039689/ASG_4050.jpg</link>
+      <title>attachment-5a53f7db71c10b60575f240c</title>
+      <wp:post_name>ASG-4050-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53f7db71c10b60575f240c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53f7db71c10b60575f240c]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 22:59:39 +0000</pubDate>
+      <wp:post_date>2018-01-08 22:59:39</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 22:59:39</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f81953450acae562d9b6/1515810470860/ASG_4079.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a53f81953450acae562d9b6/1515810470860/ASG_4079.jpg</link>
+      <title>attachment-5a53f81953450acae562d9b6</title>
+      <wp:post_name>ASG-4079-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53f81953450acae562d9b6]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53f81953450acae562d9b6]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:00:41 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:00:41</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:00:41</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c550f9619ace89bec027/1515810470799/ASG_5460.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c550f9619ace89bec027/1515810470799/ASG_5460.jpg</link>
+      <title>attachment-5a55c550f9619ace89bec027</title>
+      <wp:post_name>ASG-5460-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a55c550f9619ace89bec027]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a55c550f9619ace89bec027]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 07:48:32 +0000</pubDate>
+      <wp:post_date>2018-01-10 07:48:32</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 07:48:32</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5518165f51d86004d34/1515810470665/ASG_5542.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5518165f51d86004d34/1515810470665/ASG_5542.jpg</link>
+      <title>attachment-5a55c5518165f51d86004d34</title>
+      <wp:post_name>ASG-5542-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a55c5518165f51d86004d34]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a55c5518165f51d86004d34]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 07:48:33 +0000</pubDate>
+      <wp:post_date>2018-01-10 07:48:33</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 07:48:33</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5758165f51d86004f9e/1515571254248/ASG_4155.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5758165f51d86004f9e/1515571254248/ASG_4155.jpg</link>
+      <title>attachment-5a55c5758165f51d86004f9e</title>
+      <wp:post_name>ASG-4155-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a55c5758165f51d86004f9e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a55c5758165f51d86004f9e]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 07:49:09 +0000</pubDate>
+      <wp:post_date>2018-01-10 07:49:09</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 07:49:09</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c58924a6942696317168/1515810470910/ASG_4122.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c58924a6942696317168/1515810470910/ASG_4122.jpg</link>
+      <title>attachment-5a55c58924a6942696317168</title>
+      <wp:post_name>ASG-4122-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>21</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a55c58924a6942696317168]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a55c58924a6942696317168]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 07:49:29 +0000</pubDate>
+      <wp:post_date>2018-01-10 07:49:29</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 07:49:29</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5aff9619ace89bec746/1515810470773/ASG_5422.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5aff9619ace89bec746/1515810470773/ASG_5422.jpg</link>
+      <title>attachment-5a55c5aff9619ace89bec746</title>
+      <wp:post_name>ASG-5422-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>22</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a55c5aff9619ace89bec746]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a55c5aff9619ace89bec746]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 07:50:07 +0000</pubDate>
+      <wp:post_date>2018-01-10 07:50:07</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 07:50:07</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5b6ec212d5f4a922d73/1515810470859/ASG_5311.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5b6ec212d5f4a922d73/1515810470859/ASG_5311.jpg</link>
+      <title>attachment-5a55c5b6ec212d5f4a922d73</title>
+      <wp:post_name>ASG-5311-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>23</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a55c5b6ec212d5f4a922d73]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a55c5b6ec212d5f4a922d73]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 07:50:14 +0000</pubDate>
+      <wp:post_date>2018-01-10 07:50:14</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 07:50:14</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5d9e2c483133c5b6211/1515571039950/ASG_5361.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c5d9e2c483133c5b6211/1515571039950/ASG_5361.jpg</link>
+      <title>attachment-5a55c5d9e2c483133c5b6211</title>
+      <wp:post_name>ASG-5361-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>24</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a55c5d9e2c483133c5b6211]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a55c5d9e2c483133c5b6211]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 07:50:49 +0000</pubDate>
+      <wp:post_date>2018-01-10 07:50:49</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 07:50:49</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c7aae4966b9db4769bb5/1515571119290/unnamed.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a55c7aae4966b9db4769bb5/1515571119290/unnamed.jpg</link>
+      <title>attachment-5a55c7aae4966b9db4769bb5</title>
+      <wp:post_name>unnamed-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>25</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a55c7aae4966b9db4769bb5]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a55c7aae4966b9db4769bb5]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 07:58:34 +0000</pubDate>
+      <wp:post_date>2018-01-10 07:58:34</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 07:58:34</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59710b53450a8d5a9c4e43/1515811170814/ASG_6281.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59710b53450a8d5a9c4e43/1515811170814/ASG_6281.jpg</link>
+      <title>attachment-5a59710b53450a8d5a9c4e43</title>
+      <wp:post_name>ASG-6281-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>26</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a59710b53450a8d5a9c4e43]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a59710b53450a8d5a9c4e43]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:38:03 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:38:03</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:38:03</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59715408522942afe9950c/1515811172762/ASG_6233.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59715408522942afe9950c/1515811172762/ASG_6233.jpg</link>
+      <title>attachment-5a59715408522942afe9950c</title>
+      <wp:post_name>ASG-6233-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>27</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a59715408522942afe9950c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a59715408522942afe9950c]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:39:16 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:39:16</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:39:16</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59715f8165f5b7c1afad0f/1515811442797/ASG_6243.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59715f8165f5b7c1afad0f/1515811442797/ASG_6243.jpg</link>
+      <title>attachment-5a59715f8165f5b7c1afad0f</title>
+      <wp:post_name>ASG-6243-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>28</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a59715f8165f5b7c1afad0f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a59715f8165f5b7c1afad0f]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:39:27 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:39:27</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:39:27</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59717af9619a67359f5027/1515811442852/ASG_6241.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59717af9619a67359f5027/1515811442852/ASG_6241.jpg</link>
+      <title>attachment-5a59717af9619a67359f5027</title>
+      <wp:post_name>ASG-6241-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>29</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a59717af9619a67359f5027]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a59717af9619a67359f5027]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:39:54 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:39:54</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:39:54</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59718e9140b7e31a649490/1515811442895/ASG_6261.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a59718e9140b7e31a649490/1515811442895/ASG_6261.jpg</link>
+      <title>attachment-5a59718e9140b7e31a649490</title>
+      <wp:post_name>ASG-6261-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>30</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a59718e9140b7e31a649490]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a59718e9140b7e31a649490]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:40:14 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:40:14</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:40:14</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971a708522942afe99f12/1515811442905/ASG_6241.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971a708522942afe99f12/1515811442905/ASG_6241.jpg</link>
+      <title>attachment-5a5971a708522942afe99f12</title>
+      <wp:post_name>ASG-6241-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>31</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5971a708522942afe99f12]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5971a708522942afe99f12]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:40:39 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:40:39</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:40:39</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971bf71c10b9c8c135606/1515811442903/ASG_5855.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971bf71c10b9c8c135606/1515811442903/ASG_5855.jpg</link>
+      <title>attachment-5a5971bf71c10b9c8c135606</title>
+      <wp:post_name>ASG-5855-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>32</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5971bf71c10b9c8c135606]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5971bf71c10b9c8c135606]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:41:03 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:41:03</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:41:03</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971ccf9619a67359f59ad/1515811442953/ASG_5875.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971ccf9619a67359f59ad/1515811442953/ASG_5875.jpg</link>
+      <title>attachment-5a5971ccf9619a67359f59ad</title>
+      <wp:post_name>ASG-5875-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>33</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5971ccf9619a67359f59ad]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5971ccf9619a67359f59ad]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:41:16 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:41:16</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:41:16</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971df24a6949edb72dbaa/1515811442961/ASG_5882.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5971df24a6949edb72dbaa/1515811442961/ASG_5882.jpg</link>
+      <title>attachment-5a5971df24a6949edb72dbaa</title>
+      <wp:post_name>ASG-5882-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>34</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5971df24a6949edb72dbaa]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5971df24a6949edb72dbaa]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:41:35 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:41:35</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:41:35</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a597202e2c4839a6b11ae28/1515811442960/ASG_6031.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a597202e2c4839a6b11ae28/1515811442960/ASG_6031.jpg</link>
+      <title>attachment-5a597202e2c4839a6b11ae28</title>
+      <wp:post_name>ASG-6031-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>35</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a597202e2c4839a6b11ae28]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a597202e2c4839a6b11ae28]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:42:10 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:42:10</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:42:10</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5972148165f5b7c1afc4b4/1515811443021/ASG_6073.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4d90f1c8302529ed78bc8c/5a5972148165f5b7c1afc4b4/1515811443021/ASG_6073.jpg</link>
+      <title>attachment-5a5972148165f5b7c1afc4b4</title>
+      <wp:post_name>ASG-6073-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>36</wp:post_id>
+      <wp:post_parent>2</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5972148165f5b7c1afc4b4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5972148165f5b7c1afc4b4]]></excerpt:encoded>
+      <pubDate>Sat, 13 Jan 2018 02:42:28 +0000</pubDate>
+      <wp:post_date>2018-01-13 02:42:28</wp:post_date>
+      <wp:post_date_gmt>2018-01-13 02:42:28</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>How To: Photographing The Milky Way</title>
+      <link>/blog/2018/1/3/photographing-the-milky-way</link>
+      <content:encoded><![CDATA[<p>If you're reading this, you probably know what the Milky Way is, but for the purpose of this article you're going to learn more about it so you can approach upcoming Milky Way seasons with knowledge.</p><h1>Milky Way Season</h1><p>Throughout the year the location of the Milky Way in our sky changes because the Earth's orbit around the sun, Earth's spherical shape,&nbsp;and the tilt of it's axis.&nbsp;</p><p>If you reside in the Northern Hemisphere, optimal times to photograph the Milky Way are around March to October. If you reside in the Southern Hemisphere, optimal times to photograph the Milky Way are around February to October, luckily you get an extra month! The best times to see the Milky Way vary night to night because of other factors.</p><h1>Light Pollution</h1><p>Lights that illuminate the sky make the Milky Way less visible or in extreme conditions completely invisible. While cities near you are a huge factor to this, the moon is as well. The moon reflects sunlight and illuminates the night sky, so the optimal time to photograph the Milky Way would be...</p><ul><li>During the New Moon Phase of the month</li><li>Before the moon rises or after the moon sets</li></ul><p>This also includes any other light sources near you and the surrounding area, such as flashlights and headlights. However, you may use these for creative effects such as light painting foregrounds which I will cover in a future blog post.</p><h1>Gear:</h1><ul><li>Camera with manual mode and good low light capabilities (ex: DSLR, Mirrorless)</li><li>Low aperture lense &nbsp;(ex:&nbsp;f2.8)<ul><li>**NOTE: Wide angle lenses are preferred,&nbsp;but you may use a telephoto to capture closer details of the galactic core instead.</li></ul></li><li>Tripod<ul><li>**NOTE: The sturdier the tripod, the sharper the images</li></ul></li></ul><h2>Optional:</h2><ul><li>Remote shutter release device to prevent camera shake.<ul><li>**NOTE: You can alternatively use an in-camera setting that delays your exposure a few seconds to reduce camera shake.&nbsp;</li></ul></li></ul><h1>In camera:</h1><p>Once you're in a remote location and you have your camera set up and pointed towards the Milky Way, you're going to want to set the correct settings. As a photographer you know each setting affects one another and you can compensate each setting with one another.</p><ul><li>As a general rule of thumb:&nbsp;<ul><li>Set your aperture to the lower possible and start at ISO 800, shutter speed 15 seconds</li></ul></li></ul><p>You may need to increase your ISO or shutter speed to get a clearer shot.&nbsp;Remember as you increase your ISO you get more grain in your photo and as you increase your exposure you have the chance in catching movement trails of stars and other moving objects in the sky. This can be used for creative effects such as creating Star Trail images which I will cover in a future blog post, but in this case we are just trying to capture the Milky Way.</p><p>After you have your settings, you're going to want to focus on the brightest star in your viewfinder/LCD Display screen. I've found that manual focusing is the best for this because the AF system can have trouble registering your subject sometimes, and then now you have to wait 10 to 30 seconds for a blurry image.</p><p>Now get out there and chase some milk!</p>
+  
+       [caption id="" align="alignnone" width="2500.0"]<img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a4dfbac24a6946c4c3f9d89/1515060407544/ASG_4079.jpg" alt="D500, 16mm f2.8, ISO 640, 30 secs. Basic Lightroom adjustments."/> D500, 16mm f2.8, ISO 640, 30 secs. Basic Lightroom adjustments.[/caption] 
+  
+
+
+  
+       [caption id="" align="alignnone" width="2500.0"]<img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a4e0106e4966b5d9ecebda9/1515061663459/ASG_4144.jpg" alt="D500, 16mm f2.8, ISO 640, 25 secs. Basic Lightroom Adjustments."/> D500, 16mm f2.8, ISO 640, 25 secs. Basic Lightroom Adjustments.[/caption] 
+  
+
+<hr /><p>**** All knowledge expressed in this post has been attained from the Astronomy C10 course I took with Alex Fillipenko, other photographers I've shot with, and my own experience. If there are any errors, please let me know and I'll gladly fix it.</p><p>***I'm also taking suggestions for how to make these guides more seamless and more informative, if you have any let me know!</p><p> </p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<h1> </h1><p> </p>]]></excerpt:encoded>
+      <wp:post_name>2018/1/3/photographing-the-milky-way</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>37</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Thu, 04 Jan 2018 10:42:16 +0000</pubDate>
+      <wp:post_date>2018-01-04 10:42:16</wp:post_date>
+      <wp:post_date_gmt>2018-01-04 10:42:16</wp:post_date_gmt>
+      <category domain="post_tag" nicename="astrophotography"><![CDATA[astrophotography]]></category>
+      <category domain="post_tag" nicename="milky-way"><![CDATA[milky way]]></category>
+      <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
+      <category domain="post_tag" nicename="how-to"><![CDATA[how to]]></category>
+      <category domain="post_tag" nicename="chasing-milk"><![CDATA[chasing milk]]></category>
+      <category domain="category" nicename="how-to"><![CDATA[How To]]></category>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[40]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a4e0106e4966b5d9ecebda9/1515061663459/ASG_4144.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a4e0106e4966b5d9ecebda9/1515061663459/ASG_4144.jpg</link>
+      <title>attachment-5a4e0106e4966b5d9ecebda9</title>
+      <wp:post_name>ASG-4144-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>38</wp:post_id>
+      <wp:post_parent>37</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a4e0106e4966b5d9ecebda9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a4e0106e4966b5d9ecebda9]]></excerpt:encoded>
+      <pubDate>Thu, 04 Jan 2018 10:25:10 +0000</pubDate>
+      <wp:post_date>2018-01-04 10:25:10</wp:post_date>
+      <wp:post_date_gmt>2018-01-04 10:25:10</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a4dfbac24a6946c4c3f9d89/1515060407544/ASG_4079.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a4dfbac24a6946c4c3f9d89/1515060407544/ASG_4079.jpg</link>
+      <title>attachment-5a4dfbac24a6946c4c3f9d89</title>
+      <wp:post_name>ASG-4079-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>39</wp:post_id>
+      <wp:post_parent>37</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a4dfbac24a6946c4c3f9d89]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a4dfbac24a6946c4c3f9d89]]></excerpt:encoded>
+      <pubDate>Thu, 04 Jan 2018 10:02:20 +0000</pubDate>
+      <wp:post_date>2018-01-04 10:02:20</wp:post_date>
+      <wp:post_date_gmt>2018-01-04 10:02:20</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a4dd6e3e4966b5d9ecba8d2/1515573044668/ASG_4079.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a4dd6e3e4966b5d9ecba8d2/1515573044668/ASG_4079.jpg</link>
+      <title>attachment-5a4dd6e3e4966b5d9ecba8d2</title>
+      <wp:post_name>ASG-4079-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>40</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a4dd6e3e4966b5d9ecba8d2]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a4dd6e3e4966b5d9ecba8d2]]></excerpt:encoded>
+      <pubDate>Thu, 04 Jan 2018 10:42:16 +0000</pubDate>
+      <wp:post_date>2018-01-04 10:42:16</wp:post_date>
+      <wp:post_date_gmt>2018-01-04 10:42:16</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>How To: Concert Photography</title>
+      <link>/blog/2018/1/8/concert-photography</link>
+      <content:encoded><![CDATA[<p>In this article I will cover how to approach your first concert and navigate the venue. I will also include gear recommendations and examples from two concerts I shot late 2017 in San Francisco (LCD Soundsystem and Matisyahu).</p><h1>Your First Gig</h1><p>Whether it's for editorial purposes, paid, or a portfolio building opportunity we all need to start somewhere.</p><p>At concerts you usually shoot in "the pit" for the first three songs. This varies by venue, so be sure to always ask what your limitations are, and always be polite to the security guards. Once after my three songs were up a security guard let me go upstairs of the venue to continue photographing, which was really rad. Always look for opportunities to keep shooting, but do NOT try shooting without permission because that will end poorly for you.</p><p>** The pit: Location between crowd and band,&nbsp;walk towards the stage where the security guards are and show them your press pass to get in</p><p> </p><h1>What You Need</h1><ul><li>Press pass and a ticket<ul><li>If you do not have a press pass and are not affiliated with a newspaper/magazine, you can possibly get one by professionally reaching out to small venues for an opportunity (Most likely for free since you're building your portfolio</li><li>If you have a press pass but no ticket, you will need to show up to one of the box offices to get your ticket. If it's not under your name, let them know the name of the individual who secured your ticket before hand and show them your press pass.</li></ul></li><li>A camera with manual/aperture priority mode.<ul><li>DSLR or Mirrorless is recommended.</li><li>I use a D500, but you do NOT need a higher end camera like this. Any DSLR or Mirrorless camera should work fine.</li></ul></li><li>Wide-aperture lens<ul><li>f2.8or lower is recommended to get the highest quality images possible.</li><li>I use my 16-80 f2.8-4.0 Nikon lens, because it's my only wide-angle lens + sometimes I like to zoom in for tighter shots.</li></ul></li></ul><h1>Camera Settings</h1><ul><li>Manual or Aperture priority mode?<ul><li>Concerts are ongoing with movement and the light is constantly changing. If you have aperture priority mode take advantage of it, as it usually does a great job.</li><li>Manual mode is great, it will just take you more time to adjust and you most likely get a lot less usable images if you're not experienced with how Shutter speed, ISO, and aperture affect each other.</li></ul></li><li>Generally..<ul><li>ISO will be 800 or above<ul><li>ISO can look terrible on some cameras, the better camera you have the less you have to worry about ISO. For ex, the image below was shot at 3200 ISO on the D500 and still looks great.</li></ul></li><li>Shutter speed will be around 1/60 to 250<ul><li>You can use motion blur for creative effects but you'll mostly want to stay around 200 to get solid still images.</li></ul></li><li>Aperture, lowest you can put it.<ul><li>This allows you to have a lower ISO for better quality images and have a faster shutter speed.&nbsp;</li></ul></li></ul></li></ul>
+  
+       [caption id="" align="alignnone" width="2500.0"]<img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a543519419202695f3e8695/1515468810597/ASG_9307.jpg" alt="1/200 sec, 24mm, f2.8, ISO 3200. Basic Lightroom adjustments."/> 1/200 sec, 24mm, f2.8, ISO 3200. Basic Lightroom adjustments.[/caption] 
+  
+
+<h1>Concert Photography Slideshow (LCD Soundsystem, Matisyahu).</h1><div class="image-gallery-wrapper">
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa649140b748a610849a/1515453837744/ASG_8650.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fcca8165f5caea563837/1515453837747/ASG_8734.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa6453450acae5635321/1515453837743/ASG_8974.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd17419202c02c5345de/1515453837747/ASG_8611.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa9ee2c483b7c999ec02/1515453837756/ASG_8852.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd79e2c483b7c99a830f/1515453840594/ASG_8795.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fdb853450acae563fac1/1515453903576/ASG_8618.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54031fe4966b6e7428457c/1515455330164/ASG_9173.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540320e2c483b7c99b965b/1515455312906/ASG_9225.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540347f9619a80a4bb2c71/1515455389241/ASG_9231.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54035724a694bed5ef2f32/1515455395005/ASG_9242.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54038c8165f5caea578042/1515455445804/ASG_9307.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540399ec212d2daa1a48ee/1515455450251/ASG_9423.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5403ca9140b748a612579f/1515455479834/ASG_9460.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540680f9619a80a4bbd559/1515456216712/ASG_9373.jpg" />
+  
+
+  
+   <img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5406800d9297e985f3030d/1515456171359/ASG_9404.jpg" />
+  
+
+</div><hr /><p>**Information in this article stated is from my experience shooting concerts. Some of the camera settings/gear depends on you yourself as a photographer. Also, all venues are different so keep that in mind as well. This is a general guide for people who are interested in concert photography and or are about to shoot their first concert.</p><p>**Please leave your thoughts about this article below, any errors in the blog please inform me.&nbsp;</p><p>AS ALWAYS, if you enjoyed this please like and share it &lt;3</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2018/1/8/concert-photography</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>41</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 10 Jan 2018 08:29:43 +0000</pubDate>
+      <wp:post_date>2018-01-10 08:29:43</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 08:29:43</wp:post_date_gmt>
+      <category domain="post_tag" nicename="concerts"><![CDATA[Concerts]]></category>
+      <category domain="post_tag" nicename="concert-photography"><![CDATA[Concert photography]]></category>
+      <category domain="post_tag" nicename="lcd-soundsystem"><![CDATA[LCD Soundsystem]]></category>
+      <category domain="post_tag" nicename="matisyahu"><![CDATA[Matisyahu]]></category>
+      <category domain="post_tag" nicename="tutorial"><![CDATA[tutorial]]></category>
+      <category domain="post_tag" nicename="how-to"><![CDATA[how to]]></category>
+      <category domain="category" nicename="how-to"><![CDATA[How To]]></category>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[59]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5406800d9297e985f3030d/1515456171359/ASG_9404.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5406800d9297e985f3030d/1515456171359/ASG_9404.jpg</link>
+      <title>attachment-5a5406800d9297e985f3030d</title>
+      <wp:post_name>ASG-9404-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>42</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5406800d9297e985f3030d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5406800d9297e985f3030d]]></excerpt:encoded>
+      <pubDate>Tue, 09 Jan 2018 00:02:08 +0000</pubDate>
+      <wp:post_date>2018-01-09 00:02:08</wp:post_date>
+      <wp:post_date_gmt>2018-01-09 00:02:08</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540680f9619a80a4bbd559/1515456216712/ASG_9373.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540680f9619a80a4bbd559/1515456216712/ASG_9373.jpg</link>
+      <title>attachment-5a540680f9619a80a4bbd559</title>
+      <wp:post_name>ASG-9373-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>43</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540680f9619a80a4bbd559]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540680f9619a80a4bbd559]]></excerpt:encoded>
+      <pubDate>Tue, 09 Jan 2018 00:02:08 +0000</pubDate>
+      <wp:post_date>2018-01-09 00:02:08</wp:post_date>
+      <wp:post_date_gmt>2018-01-09 00:02:08</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5403ca9140b748a612579f/1515455479834/ASG_9460.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5403ca9140b748a612579f/1515455479834/ASG_9460.jpg</link>
+      <title>attachment-5a5403ca9140b748a612579f</title>
+      <wp:post_name>ASG-9460-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>44</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5403ca9140b748a612579f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5403ca9140b748a612579f]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:50:34 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:50:34</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:50:34</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540399ec212d2daa1a48ee/1515455450251/ASG_9423.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540399ec212d2daa1a48ee/1515455450251/ASG_9423.jpg</link>
+      <title>attachment-5a540399ec212d2daa1a48ee</title>
+      <wp:post_name>ASG-9423-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>45</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540399ec212d2daa1a48ee]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540399ec212d2daa1a48ee]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:49:45 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:49:45</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:49:45</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54038c8165f5caea578042/1515455445804/ASG_9307.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54038c8165f5caea578042/1515455445804/ASG_9307.jpg</link>
+      <title>attachment-5a54038c8165f5caea578042</title>
+      <wp:post_name>ASG-9307-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>46</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a54038c8165f5caea578042]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a54038c8165f5caea578042]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:49:32 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:49:32</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:49:32</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54035724a694bed5ef2f32/1515455395005/ASG_9242.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54035724a694bed5ef2f32/1515455395005/ASG_9242.jpg</link>
+      <title>attachment-5a54035724a694bed5ef2f32</title>
+      <wp:post_name>ASG-9242-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>47</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a54035724a694bed5ef2f32]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a54035724a694bed5ef2f32]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:48:39 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:48:39</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:48:39</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540347f9619a80a4bb2c71/1515455389241/ASG_9231.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540347f9619a80a4bb2c71/1515455389241/ASG_9231.jpg</link>
+      <title>attachment-5a540347f9619a80a4bb2c71</title>
+      <wp:post_name>ASG-9231-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>48</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540347f9619a80a4bb2c71]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540347f9619a80a4bb2c71]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:48:23 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:48:23</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:48:23</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540320e2c483b7c99b965b/1515455312906/ASG_9225.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540320e2c483b7c99b965b/1515455312906/ASG_9225.jpg</link>
+      <title>attachment-5a540320e2c483b7c99b965b</title>
+      <wp:post_name>ASG-9225-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>49</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540320e2c483b7c99b965b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540320e2c483b7c99b965b]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:47:44 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:47:44</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:47:44</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54031fe4966b6e7428457c/1515455330164/ASG_9173.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54031fe4966b6e7428457c/1515455330164/ASG_9173.jpg</link>
+      <title>attachment-5a54031fe4966b6e7428457c</title>
+      <wp:post_name>ASG-9173-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>50</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a54031fe4966b6e7428457c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a54031fe4966b6e7428457c]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:47:43 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:47:43</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:47:43</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fdb853450acae563fac1/1515453903576/ASG_8618.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fdb853450acae563fac1/1515453903576/ASG_8618.jpg</link>
+      <title>attachment-5a53fdb853450acae563fac1</title>
+      <wp:post_name>ASG-8618-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>51</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fdb853450acae563fac1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fdb853450acae563fac1]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:24:40 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:24:40</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:24:40</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd79e2c483b7c99a830f/1515453840594/ASG_8795.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd79e2c483b7c99a830f/1515453840594/ASG_8795.jpg</link>
+      <title>attachment-5a53fd79e2c483b7c99a830f</title>
+      <wp:post_name>ASG-8795-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>52</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fd79e2c483b7c99a830f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fd79e2c483b7c99a830f]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:23:37 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:23:37</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:23:37</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa9ee2c483b7c999ec02/1515453837756/ASG_8852.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa9ee2c483b7c999ec02/1515453837756/ASG_8852.jpg</link>
+      <title>attachment-5a53fa9ee2c483b7c999ec02</title>
+      <wp:post_name>ASG-8852-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>53</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fa9ee2c483b7c999ec02]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fa9ee2c483b7c999ec02]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:11:26 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:11:26</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:11:26</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd17419202c02c5345de/1515453837747/ASG_8611.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd17419202c02c5345de/1515453837747/ASG_8611.jpg</link>
+      <title>attachment-5a53fd17419202c02c5345de</title>
+      <wp:post_name>ASG-8611-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>54</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fd17419202c02c5345de]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fd17419202c02c5345de]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:21:59 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:21:59</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:21:59</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa6453450acae5635321/1515453837743/ASG_8974.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa6453450acae5635321/1515453837743/ASG_8974.jpg</link>
+      <title>attachment-5a53fa6453450acae5635321</title>
+      <wp:post_name>ASG-8974-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>55</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fa6453450acae5635321]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fa6453450acae5635321]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:10:28 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:10:28</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:10:28</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fcca8165f5caea563837/1515453837747/ASG_8734.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fcca8165f5caea563837/1515453837747/ASG_8734.jpg</link>
+      <title>attachment-5a53fcca8165f5caea563837</title>
+      <wp:post_name>ASG-8734-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>56</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fcca8165f5caea563837]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fcca8165f5caea563837]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:20:42 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:20:42</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:20:42</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa649140b748a610849a/1515453837744/ASG_8650.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa649140b748a610849a/1515453837744/ASG_8650.jpg</link>
+      <title>attachment-5a53fa649140b748a610849a</title>
+      <wp:post_name>ASG-8650-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>57</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fa649140b748a610849a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fa649140b748a610849a]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:10:28 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:10:28</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:10:28</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a543519419202695f3e8695/1515468810597/ASG_9307.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a543519419202695f3e8695/1515468810597/ASG_9307.jpg</link>
+      <title>attachment-5a543519419202695f3e8695</title>
+      <wp:post_name>ASG-9307-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>58</wp:post_id>
+      <wp:post_parent>41</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a543519419202695f3e8695]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a543519419202695f3e8695]]></excerpt:encoded>
+      <pubDate>Tue, 09 Jan 2018 03:20:57 +0000</pubDate>
+      <wp:post_date>2018-01-09 03:20:57</wp:post_date>
+      <wp:post_date_gmt>2018-01-09 03:20:57</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540896652dea87f1403da5/1515572990202/ASG_8618.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540896652dea87f1403da5/1515572990202/ASG_8618.jpg</link>
+      <title>attachment-5a540896652dea87f1403da5</title>
+      <wp:post_name>ASG-8618-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>59</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540896652dea87f1403da5]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540896652dea87f1403da5]]></excerpt:encoded>
+      <pubDate>Wed, 10 Jan 2018 08:29:43 +0000</pubDate>
+      <wp:post_date>2018-01-10 08:29:43</wp:post_date>
+      <wp:post_date_gmt>2018-01-10 08:29:43</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Portraiture</title>
+      <link>/portraiture/</link>
+      <pubDate>Mon, 08 Jan 2018 23:02:32 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330ac0d9297f9a5b2db4d/1515401433492/ASG_2209.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330ac0852298a1246a906/1515401440586/ASG_2208.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330da652dea46dbf65927/1515401482688/ASG_2217.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330deec212d62e317ed2f/1515401484203/ASG_2219.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5331058165f5deaa955095/1515401527024/ASG_2247-Edit.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53312471c10b6703e71c13/1515401562079/ASG_2250.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533665c830256b61bcabfe/1515402895825/ASG_1133.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533665e2c483af0b22d09d/1515402899414/ASG_1150.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53368bf9619a83b99c567b/1515402921685/ASG_1866.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533688c830256b61bcaeb3/1515402952448/ASG_1259.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5336a4e4966ba79a2d00a7/1515402955871/ASG_1891-2.jpg" /></div>]]></content:encoded>
+      <wp:post_name>portraiture</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>60</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330ac0d9297f9a5b2db4d/1515401433492/ASG_2209.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330ac0d9297f9a5b2db4d/1515401433492/ASG_2209.jpg</link>
+      <title>attachment-5a5330ac0d9297f9a5b2db4d</title>
+      <wp:post_name>ASG-2209-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>61</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5330ac0d9297f9a5b2db4d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5330ac0d9297f9a5b2db4d]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 08:49:48 +0000</pubDate>
+      <wp:post_date>2018-01-08 08:49:48</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 08:49:48</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330ac0852298a1246a906/1515401440586/ASG_2208.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330ac0852298a1246a906/1515401440586/ASG_2208.jpg</link>
+      <title>attachment-5a5330ac0852298a1246a906</title>
+      <wp:post_name>ASG-2208-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>62</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5330ac0852298a1246a906]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5330ac0852298a1246a906]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 08:49:48 +0000</pubDate>
+      <wp:post_date>2018-01-08 08:49:48</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 08:49:48</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330da652dea46dbf65927/1515401482688/ASG_2217.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330da652dea46dbf65927/1515401482688/ASG_2217.jpg</link>
+      <title>attachment-5a5330da652dea46dbf65927</title>
+      <wp:post_name>ASG-2217-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>63</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5330da652dea46dbf65927]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5330da652dea46dbf65927]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 08:50:34 +0000</pubDate>
+      <wp:post_date>2018-01-08 08:50:34</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 08:50:34</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330deec212d62e317ed2f/1515401484203/ASG_2219.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5330deec212d62e317ed2f/1515401484203/ASG_2219.jpg</link>
+      <title>attachment-5a5330deec212d62e317ed2f</title>
+      <wp:post_name>ASG-2219-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>64</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5330deec212d62e317ed2f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5330deec212d62e317ed2f]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 08:50:38 +0000</pubDate>
+      <wp:post_date>2018-01-08 08:50:38</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 08:50:38</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5331058165f5deaa955095/1515401527024/ASG_2247-Edit.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5331058165f5deaa955095/1515401527024/ASG_2247-Edit.jpg</link>
+      <title>attachment-5a5331058165f5deaa955095</title>
+      <wp:post_name>ASG-2247-Edit-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>65</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5331058165f5deaa955095]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5331058165f5deaa955095]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 08:51:17 +0000</pubDate>
+      <wp:post_date>2018-01-08 08:51:17</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 08:51:17</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53312471c10b6703e71c13/1515401562079/ASG_2250.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53312471c10b6703e71c13/1515401562079/ASG_2250.jpg</link>
+      <title>attachment-5a53312471c10b6703e71c13</title>
+      <wp:post_name>ASG-2250-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>66</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53312471c10b6703e71c13]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53312471c10b6703e71c13]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 08:51:48 +0000</pubDate>
+      <wp:post_date>2018-01-08 08:51:48</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 08:51:48</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533665c830256b61bcabfe/1515402895825/ASG_1133.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533665c830256b61bcabfe/1515402895825/ASG_1133.jpg</link>
+      <title>attachment-5a533665c830256b61bcabfe</title>
+      <wp:post_name>ASG-1133-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>67</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a533665c830256b61bcabfe]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a533665c830256b61bcabfe]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 09:14:13 +0000</pubDate>
+      <wp:post_date>2018-01-08 09:14:13</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 09:14:13</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533665e2c483af0b22d09d/1515402899414/ASG_1150.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533665e2c483af0b22d09d/1515402899414/ASG_1150.jpg</link>
+      <title>attachment-5a533665e2c483af0b22d09d</title>
+      <wp:post_name>ASG-1150-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>68</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a533665e2c483af0b22d09d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a533665e2c483af0b22d09d]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 09:14:13 +0000</pubDate>
+      <wp:post_date>2018-01-08 09:14:13</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 09:14:13</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53368bf9619a83b99c567b/1515402921685/ASG_1866.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53368bf9619a83b99c567b/1515402921685/ASG_1866.jpg</link>
+      <title>attachment-5a53368bf9619a83b99c567b</title>
+      <wp:post_name>ASG-1866-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>69</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53368bf9619a83b99c567b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53368bf9619a83b99c567b]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 09:14:51 +0000</pubDate>
+      <wp:post_date>2018-01-08 09:14:51</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 09:14:51</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533688c830256b61bcaeb3/1515402952448/ASG_1259.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a533688c830256b61bcaeb3/1515402952448/ASG_1259.jpg</link>
+      <title>attachment-5a533688c830256b61bcaeb3</title>
+      <wp:post_name>ASG-1259-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>70</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a533688c830256b61bcaeb3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a533688c830256b61bcaeb3]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 09:14:48 +0000</pubDate>
+      <wp:post_date>2018-01-08 09:14:48</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 09:14:48</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5336a4e4966ba79a2d00a7/1515402955871/ASG_1891-2.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5336a4e4966ba79a2d00a7/1515402955871/ASG_1891-2.jpg</link>
+      <title>attachment-5a5336a4e4966ba79a2d00a7</title>
+      <wp:post_name>ASG-1891-2-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>71</wp:post_id>
+      <wp:post_parent>60</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5336a4e4966ba79a2d00a7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5336a4e4966ba79a2d00a7]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 09:15:16 +0000</pubDate>
+      <wp:post_date>2018-01-08 09:15:16</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 09:15:16</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Concert</title>
+      <link>/concert/</link>
+      <pubDate>Tue, 09 Jan 2018 00:10:07 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa6453450acae5635321/1515453837743/ASG_8974.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa649140b748a610849a/1515453837744/ASG_8650.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa9ee2c483b7c999ec02/1515453837756/ASG_8852.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fcca8165f5caea563837/1515453837747/ASG_8734.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd17419202c02c5345de/1515453837747/ASG_8611.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd79e2c483b7c99a830f/1515453840594/ASG_8795.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fdb853450acae563fac1/1515453903576/ASG_8618.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540320e2c483b7c99b965b/1515455312906/ASG_9225.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54031fe4966b6e7428457c/1515455330164/ASG_9173.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540347f9619a80a4bb2c71/1515455389241/ASG_9231.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54035724a694bed5ef2f32/1515455395005/ASG_9242.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54038c8165f5caea578042/1515455445804/ASG_9307.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540399ec212d2daa1a48ee/1515455450251/ASG_9423.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5403ca9140b748a612579f/1515455479834/ASG_9460.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5406800d9297e985f3030d/1515456171359/ASG_9404.jpg" /><img src="http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540680f9619a80a4bbd559/1515456216712/ASG_9373.jpg" /></div>]]></content:encoded>
+      <wp:post_name>concert</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>72</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa6453450acae5635321/1515453837743/ASG_8974.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa6453450acae5635321/1515453837743/ASG_8974.jpg</link>
+      <title>attachment-5a53fa6453450acae5635321</title>
+      <wp:post_name>ASG-8974-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>73</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fa6453450acae5635321]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fa6453450acae5635321]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:10:28 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:10:28</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:10:28</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa649140b748a610849a/1515453837744/ASG_8650.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa649140b748a610849a/1515453837744/ASG_8650.jpg</link>
+      <title>attachment-5a53fa649140b748a610849a</title>
+      <wp:post_name>ASG-8650-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>74</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fa649140b748a610849a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fa649140b748a610849a]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:10:28 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:10:28</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:10:28</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa9ee2c483b7c999ec02/1515453837756/ASG_8852.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fa9ee2c483b7c999ec02/1515453837756/ASG_8852.jpg</link>
+      <title>attachment-5a53fa9ee2c483b7c999ec02</title>
+      <wp:post_name>ASG-8852-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>75</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fa9ee2c483b7c999ec02]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fa9ee2c483b7c999ec02]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:11:26 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:11:26</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:11:26</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fcca8165f5caea563837/1515453837747/ASG_8734.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fcca8165f5caea563837/1515453837747/ASG_8734.jpg</link>
+      <title>attachment-5a53fcca8165f5caea563837</title>
+      <wp:post_name>ASG-8734-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>76</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fcca8165f5caea563837]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fcca8165f5caea563837]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:20:42 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:20:42</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:20:42</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd17419202c02c5345de/1515453837747/ASG_8611.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd17419202c02c5345de/1515453837747/ASG_8611.jpg</link>
+      <title>attachment-5a53fd17419202c02c5345de</title>
+      <wp:post_name>ASG-8611-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>77</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fd17419202c02c5345de]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fd17419202c02c5345de]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:21:59 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:21:59</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:21:59</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd79e2c483b7c99a830f/1515453840594/ASG_8795.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fd79e2c483b7c99a830f/1515453840594/ASG_8795.jpg</link>
+      <title>attachment-5a53fd79e2c483b7c99a830f</title>
+      <wp:post_name>ASG-8795-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>78</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fd79e2c483b7c99a830f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fd79e2c483b7c99a830f]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:23:37 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:23:37</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:23:37</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fdb853450acae563fac1/1515453903576/ASG_8618.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a53fdb853450acae563fac1/1515453903576/ASG_8618.jpg</link>
+      <title>attachment-5a53fdb853450acae563fac1</title>
+      <wp:post_name>ASG-8618-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>79</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a53fdb853450acae563fac1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a53fdb853450acae563fac1]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:24:40 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:24:40</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:24:40</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540320e2c483b7c99b965b/1515455312906/ASG_9225.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540320e2c483b7c99b965b/1515455312906/ASG_9225.jpg</link>
+      <title>attachment-5a540320e2c483b7c99b965b</title>
+      <wp:post_name>ASG-9225-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>80</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540320e2c483b7c99b965b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540320e2c483b7c99b965b]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:47:44 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:47:44</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:47:44</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54031fe4966b6e7428457c/1515455330164/ASG_9173.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54031fe4966b6e7428457c/1515455330164/ASG_9173.jpg</link>
+      <title>attachment-5a54031fe4966b6e7428457c</title>
+      <wp:post_name>ASG-9173-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>81</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a54031fe4966b6e7428457c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a54031fe4966b6e7428457c]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:47:43 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:47:43</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:47:43</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540347f9619a80a4bb2c71/1515455389241/ASG_9231.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540347f9619a80a4bb2c71/1515455389241/ASG_9231.jpg</link>
+      <title>attachment-5a540347f9619a80a4bb2c71</title>
+      <wp:post_name>ASG-9231-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>82</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540347f9619a80a4bb2c71]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540347f9619a80a4bb2c71]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:48:23 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:48:23</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:48:23</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54035724a694bed5ef2f32/1515455395005/ASG_9242.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54035724a694bed5ef2f32/1515455395005/ASG_9242.jpg</link>
+      <title>attachment-5a54035724a694bed5ef2f32</title>
+      <wp:post_name>ASG-9242-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>83</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a54035724a694bed5ef2f32]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a54035724a694bed5ef2f32]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:48:39 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:48:39</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:48:39</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54038c8165f5caea578042/1515455445804/ASG_9307.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a54038c8165f5caea578042/1515455445804/ASG_9307.jpg</link>
+      <title>attachment-5a54038c8165f5caea578042</title>
+      <wp:post_name>ASG-9307-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>84</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a54038c8165f5caea578042]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a54038c8165f5caea578042]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:49:32 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:49:32</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:49:32</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540399ec212d2daa1a48ee/1515455450251/ASG_9423.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540399ec212d2daa1a48ee/1515455450251/ASG_9423.jpg</link>
+      <title>attachment-5a540399ec212d2daa1a48ee</title>
+      <wp:post_name>ASG-9423-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>85</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540399ec212d2daa1a48ee]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540399ec212d2daa1a48ee]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:49:45 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:49:45</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:49:45</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5403ca9140b748a612579f/1515455479834/ASG_9460.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5403ca9140b748a612579f/1515455479834/ASG_9460.jpg</link>
+      <title>attachment-5a5403ca9140b748a612579f</title>
+      <wp:post_name>ASG-9460-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>86</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5403ca9140b748a612579f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5403ca9140b748a612579f]]></excerpt:encoded>
+      <pubDate>Mon, 08 Jan 2018 23:50:34 +0000</pubDate>
+      <wp:post_date>2018-01-08 23:50:34</wp:post_date>
+      <wp:post_date_gmt>2018-01-08 23:50:34</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5406800d9297e985f3030d/1515456171359/ASG_9404.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a5406800d9297e985f3030d/1515456171359/ASG_9404.jpg</link>
+      <title>attachment-5a5406800d9297e985f3030d</title>
+      <wp:post_name>ASG-9404-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>87</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a5406800d9297e985f3030d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a5406800d9297e985f3030d]]></excerpt:encoded>
+      <pubDate>Tue, 09 Jan 2018 00:02:08 +0000</pubDate>
+      <wp:post_date>2018-01-09 00:02:08</wp:post_date>
+      <wp:post_date_gmt>2018-01-09 00:02:08</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540680f9619a80a4bbd559/1515456216712/ASG_9373.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5a4d842db0786964340c3bfc/5a4dd6dd8165f5a45d8f6bc0/5a540680f9619a80a4bbd559/1515456216712/ASG_9373.jpg</link>
+      <title>attachment-5a540680f9619a80a4bbd559</title>
+      <wp:post_name>ASG-9373-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>88</wp:post_id>
+      <wp:post_parent>72</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a540680f9619a80a4bbd559]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a540680f9619a80a4bbd559]]></excerpt:encoded>
+      <pubDate>Tue, 09 Jan 2018 00:02:08 +0000</pubDate>
+      <wp:post_date>2018-01-09 00:02:08</wp:post_date>
+      <wp:post_date_gmt>2018-01-09 00:02:08</wp:post_date_gmt>
+      <dc:creator>aren.hsg@gmail.com</dc:creator>
+    </item>
+  </channel>
+</rss>
+
